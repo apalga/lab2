@@ -1,0 +1,12 @@
+{
+    "printWidth": 100,
+    "tabWidth": 2,
+    "singleQuote": true,
+    "semi": true,
+    "arrowParens": "avoid",
+    "bracketSpacing": true,
+    "trailingComma": "none",
+		"commentLineLength": 80,
+    "sortImports": true,
+    "alignObjectProperties": true
+   }
