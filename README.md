@@ -1,19 +1,11 @@
-# lab2
-
-•	Socket OK
-•	Servidor OK
-•	Mongn DB OK
-•	Redis OK
+Verificar disponibilidad del servidor
 
 ![image](https://github.com/apalga/lab2/assets/14065010/79b25877-4ac2-412d-8f2b-5c41ff59da58)
 
-Verificar disponibilidad del servidor
-
-![Uploading image.png…]()
+![image](https://github.com/apalga/lab2/assets/14065010/5582bdcc-0010-42a1-b9ce-52dfa00ec93f)
 
 
-laboratorio practico 1
-###REGLAS
+## REGLAS
 
 ## Reglas pretierrrc
 
