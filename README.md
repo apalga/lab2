@@ -1,5 +1,16 @@
 # lab2
-laboratorio practico 2
+
+Socket OK
+Aplicacion OK
+MongnDB OK
+Redis OK
+
+![image](https://github.com/apalga/lab2/assets/14065010/79b25877-4ac2-412d-8f2b-5c41ff59da58)
+
+
+
+
+laboratorio practico 1
 ###REGLAS
 
 ## Reglas pretierrrc
@@ -40,5 +51,6 @@ Esta regla requiere que se especifique el tipo de `this` en las funciones. Esto 
 
 1. **"watchExtensions": ["ts", "json", "md"]**
    Especifica las extensiones de archivo a vigilar
+
 
 	 
